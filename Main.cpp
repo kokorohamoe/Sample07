@@ -2,6 +2,6 @@
 
 int main(void){
   std::cout <<" paiza io" <<std::flush;
-  return (int)false?ttur:false;
+  return (int)false?true:false;
   
   }
