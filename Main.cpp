@@ -7,7 +7,7 @@ int main(void){
   
   std::future<int> r ;
   
-  r.set( 1 );
+  int a = r.get();
   
   return (int)false?true:false;
   
